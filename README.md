@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgresql-003545?style=for-the-badge&logo=postgresql&logoColor=white"> 
   <br>
 
   <br>
@@ -52,6 +52,6 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-![ehdtndla123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdtndla123&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's_Coding_Life)
+![ehdtndla123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdtndla123&&count_private=true&show_icons=true&theme=radical&custom_title=Dongsoo's_Coding_Life)
 
 </p>
