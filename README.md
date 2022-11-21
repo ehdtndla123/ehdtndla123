@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Jinwoo,Ha&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Dongsoo,Chang&fontSize=70&animation=twinkling)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
@@ -52,6 +52,6 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-![woo4826's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo4826&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's_Coding_Life)
+![ehdtndla123's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehdtndla123&&count_private=true&show_icons=true&theme=radical&custom_title=Jinu's_Coding_Life)
 
 </p>
